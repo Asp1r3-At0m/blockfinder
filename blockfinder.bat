@@ -5,4 +5,4 @@
 :: 'blockfinder.bat' to be in the same directory.
 :: Look at "cmd /c for /?" to understand the "~dp0" label.
 ::
-python "%~dp0\blockfinder" %*
+python2 "%~dp0\blockfinder" %*
